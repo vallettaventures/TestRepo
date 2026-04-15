@@ -12,4 +12,3 @@ GHI
 bbb
 bbb
 bbb
-Hello Welt!
